@@ -1,0 +1,3 @@
+# Placeholder.
+# Candidate should overwrite with:
+# conftest test evidence/plan.json -p policy | tee evidence/test_output.txt
